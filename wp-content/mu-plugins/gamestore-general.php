@@ -1,7 +1,7 @@
 <?php
-/*
- * Plugin name: Gamestore General
- * Description: Core Code for Gamestore
+/**
+ * Plugin Name: Gamestore General
+ * Description: Core Code for Gamestore.
  * Version: 1.0
  * Author: Yulia Voloboy
  * Author URI: https://yvoloboy.ru
