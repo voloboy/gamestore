@@ -25,6 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @see https://developer.wordpress.org/reference/functions/register_block_type/
  */
 function create_block_blocks_gamestore_block_init() {
-	register_block_type( __DIR__ . '/build/blocks-gamestore' );
+	register_block_type( __DIR__ . '/build/block-hero' );
+	register_block_type( __DIR__ . '/build/block-contact' );
 }
 add_action( 'init', 'create_block_blocks_gamestore_block_init' );
